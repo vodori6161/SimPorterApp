@@ -1,10 +1,11 @@
 package com.example.SimPorter.model;
 
 import jakarta.persistence.*;
-import lombok.Data;
+import lombok.*;
 
 @Entity
 @Data
+@Builder
 public class PortRequest {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
