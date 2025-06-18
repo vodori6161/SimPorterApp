@@ -4,6 +4,7 @@ import lombok.Data;
 import java.time.LocalDate;
 
 @Entity
+@Table(name = "user_table")
 @Data
 public class User {
     @Id

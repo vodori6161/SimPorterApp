@@ -6,6 +6,8 @@ import lombok.*;
 @Entity
 @Data
 @Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class PortRequest {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -13,4 +15,5 @@ public class PortRequest {
     private String aadhaar;
     private PortStatus status;
     private double postingCharge = 100.0;
+
 }
