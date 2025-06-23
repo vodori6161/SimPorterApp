@@ -4,7 +4,7 @@ import lombok.Data;
 import java.time.LocalDate;
 
 @Entity
-@Table(name = "user_table")
+@Table(name = "users")
 @Data
 public class User {
     @Id
@@ -14,4 +14,5 @@ public class User {
     private PlanType plantype;
     private double balance;
     private double postpaidDue;
+
 }
