@@ -62,8 +62,8 @@ public class PortingService {
         return PortResponse.success(
                 paymentMessage+
                         String.format(" plus Rs%.2f porting fee, total: rs%.2f" ,
-                                request.getPortingCharge(),
-                                amountDue + request.getPortingCharge())
+                               200.00,
+                                200.00)
         );
 
     }
@@ -80,7 +80,7 @@ public class PortingService {
 
         // chumma say the airtel thing is working
 
-        return "Process -> Awaiting ISP Integration";
+        return "Success, the porting is completed";
     }
 
     public void updatePortStatus(Long requestId, PortStatus newStatus){

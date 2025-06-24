@@ -11,6 +11,7 @@ public class User {
     private String aadhaar;
     private String phoneNumber;
     private LocalDate joinDate;
+    @Enumerated(EnumType.STRING)
     private PlanType plantype;
     private double balance;
     private double postpaidDue;

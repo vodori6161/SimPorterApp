@@ -14,6 +14,7 @@ public class PortRequest {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String aadhaar;
+    @Enumerated(EnumType.STRING)
     private PortStatus status;
     private double portingCharge = 100.0;
 

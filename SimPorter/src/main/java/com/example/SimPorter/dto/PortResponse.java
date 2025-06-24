@@ -1,11 +1,9 @@
 package com.example.SimPorter.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.sound.sampled.Port;
 
 
 @Data
