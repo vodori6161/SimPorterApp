@@ -8,4 +8,5 @@ import org.springframework.data.jpa.repository.JpaRepository;
 public interface UserRepository extends JpaRepository<User, String> {
 boolean existsByAadhaarAndPhoneNumber(String aadhaar,String phoneNumber);
  Optional<User> findByAadhaarAndPhoneNumber(String aadhaar, String phoneNumber);
+ Optional<User> findByAadhaar(String aadhaar);
 }
