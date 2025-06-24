@@ -81,6 +81,60 @@ public class PortControllerTest {
 
     }
 
+    //handling the succesful payments when the user pays for the dues left
+    @Test
+    void handlePayment_WhenValidAmount_ReturnsSuccess(){
+
+        // first a, that is to ARRANGE for teh things to be correct
+        ResponseEntity<String> responseEntity = ResponseEntity.ok("success");
+        when(paymentService.processPayment(1L,200.0)).thenReturn(responseEntity);
+
+        //now is to ACT on the same
+        ResponseEntity<String> response = portController.handlePayment(1L,200.0);
+
+        // asserting that is equals
+
+        assertEquals( responseEntity, response);
+
+
+    }
+
+
+    // same thing as above but we are going to get an error as the payment is not successful
+
+    @Test
+    void handlePayment_WhenPaymentUnsuccessful_ReturnsError(){
+        ResponseEntity<String> responseEntity = ResponseEntity.badRequest().body("Payment unsuccessful");
+        when(paymentService.processPayment(1L,200.0)).thenReturn(responseEntity);
+
+        ResponseEntity<String> response = portController.handlePayment(1L,200.0);
+
+        assertEquals(responseEntity,response);
+
+    }
+
+
+    // i have used this test method to check the port status when the request returns success
+
+    @Test
+    void checkPortStatus_WhenRequestSuccessful_ReturnsSuccess(){
+        when(portingService.checkStatus(1L)).thenReturn("success");
+        String response = portController.checkPortStatus(1L);
+        assertEquals("success",response);
+    }
+
+
+    // we had the requestId as 1 and of the long type and the same if not enteres properly then
+    // the thing we get will be errorborne
+
+    @Test
+    void checkPortStatus_WhenRequestUnsuccessful_ReturnsError(){
+        when(portingService.checkStatus(999999L)).thenThrow(new RuntimeException("error"));
+
+        assertThrows(RuntimeException.class, ()->portController.checkPortStatus(999999L));
+    }
+
+
 
 
 
