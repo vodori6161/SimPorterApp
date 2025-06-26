@@ -4,7 +4,8 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class IspIntegrationService {
+    public boolean notifyNewIsp(String aadhaar, String phoneNumber){
+        return true;
+    }
 
-    public boolean notifyNewIsp(String aadhaar, String phoneNumber){return true;}
-        //return true;
 }
