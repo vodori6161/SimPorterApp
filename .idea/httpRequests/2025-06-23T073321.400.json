@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-06-23T02:03:21.507+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/port/status"
+}

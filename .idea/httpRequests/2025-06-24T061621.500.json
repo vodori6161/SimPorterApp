@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-06-24T00:46:21.641+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/api/port/initiate"
+}

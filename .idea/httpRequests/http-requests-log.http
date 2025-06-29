@@ -1,0 +1,501 @@
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T062245.500.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T062220.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+Content-Length: 4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+POST
+
+<> 2025-06-24T061654.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+Content-Length: 4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+POST
+
+<> 2025-06-24T061651.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061634.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061632.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061621.500.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar="1234"&phoneNumber="9876543210"Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061239.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061221.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar="1234"&phoneNumber="9876543210"Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061211.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061046.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T061045.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060843.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060835.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060833.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060434.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060432.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060429.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060427.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060354-2.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060354-1.200.json
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-24T060354.200.txt
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+Content-Length: 4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+POST
+
+<> 2025-06-24T060354.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060354-3.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060239.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060230.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+Content-Length: 4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+POST
+
+<> 2025-06-24T060207.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060203.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060201.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060153.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060132.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T060119.200.json
+
+###
+
+POST http://127.0.0.1:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055529.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055430.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=987654321Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055409.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+Content-Length: 4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+POST
+
+<> 2025-06-24T055349.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055301.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055252.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055241.500.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar=1234&phoneNumber=9876543210Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-24T055227.200.json
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T104947.200.txt
+
+###
+
+GET http://localhost:8080/api/port/payment?requestId=1&amount=800
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T104922.200.txt
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=TXN_1750644191892
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T104919.400.json
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T104917.200.txt
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T093021.200.txt
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T093012.500.json
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=82
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T093001.500.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar="14"&phoneNumber="9876543210"Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-23T073425.200.json
+
+###
+
+POST http://localhost:8080/api/port/initiate?aadhaar="1234"&phoneNumber="9876543210"Content-Type: application/x-www-form-urlencoded
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-06-23T073420.200.json
+
+###
+
+GET http://localhost:8080/api/port/status?requestId=TXN_1750644191892
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-23T073321.400.json
+
+###
+
