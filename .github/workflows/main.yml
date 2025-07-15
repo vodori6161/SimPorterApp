@@ -33,6 +33,6 @@ jobs:
         tags: latest
         registry: docker.io
         dockerfile: SimPorter/Dockerfile
-        context: SimPorter
+        directory: SimPorter
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
