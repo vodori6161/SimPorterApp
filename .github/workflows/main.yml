@@ -12,18 +12,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-    - name: Set up JDK 1.8
+    - name: Set up JDK 17
       uses: actions/setup-java@v1
       with:
-        java-version: '1.8'
+        java-version: '17'
         distribution: 'adopt'
         cache: maven
 
     - name: Build with Maven
       run: mvn clean install
-      working-directory: ./SimPorter
+      working-directory: ./SimPorter  # Adjusted to your actual Maven project folder
 
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
@@ -31,7 +32,7 @@ jobs:
         image: vodori6161/SimPorter
         tags: latest
         registry: docker.io
-        dockerfile: SimPorter/Dockerfile
-        context: SimPorter
+        dockerfile: SimPorter/Dockerfile  # Dockerfile path inside the subfolder
+        context: SimPorter                # Docker context set to the subfolder
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
