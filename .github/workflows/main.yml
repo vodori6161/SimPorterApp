@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  workflow_dispatch:  # Enables manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,12 +23,15 @@ jobs:
 
     - name: Build with Maven
       run: mvn clean install
+      working-directory: ./SimPorter
+
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: vodori6161/SimPorter
         tags: latest
         registry: docker.io
-        dockerfile: Dockerfile
+        dockerfile: SimPorter/Dockerfile
+        context: SimPorter
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
